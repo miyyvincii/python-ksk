@@ -1,5 +1,4 @@
 # python-ksk
-file project python
 # file python
 # python-ksk
 
